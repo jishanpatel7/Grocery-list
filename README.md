@@ -2,12 +2,7 @@
 
 This project is made using React.
 
-## [Deployment Link](https://lucid-jones-657dce.netlify.app/)
 
-
-## Project Screenshot
-
-![](https://github.com/m-sehrawat/Grocery-List-Management-App/blob/master/public/grocery-list.png)
 
 ## Available Scripts
 
